@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Socials
 
 <div id="badges">
-  <a target="_blank" href="https://www.linkedin.com/in/aleksandrenin163/">
+  <a href="https://www.linkedin.com/in/aleksandrenin163/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
